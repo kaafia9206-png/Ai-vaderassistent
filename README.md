@@ -134,11 +134,9 @@ Installera det externa biblioteket requests med:
 
 ```bash
 pip install requests
+```
 
-Projektet kan köras i Jupyter Notebook eller Visual Studio Code.
-
-## Filer
-
+## Filer 
 Projektet innehåller:
 
 - `vaderassistent.ipynb` – Jupyter Notebook med projektets kod och förklaringar
