@@ -78,19 +78,19 @@ Programmet kan både skriva till och läsa från CSV-filen.
 
 ## Klasser och arv
 
-Projektet innehåller en basklass:
+Projektet innehåller en förälderklass:
 
 `WeatherData`
 
 Klassen innehåller attribut för stad och temperatur samt en metod för att visa temperaturen.
 
-Projektet innehåller även en underklass:
+Projektet innehåller även en barnklass:
 
 `WeatherAssistant`
 
 WeatherAssistant ärver från WeatherData och har en egen metod för att visa temperaturvarningar.
 
-## Koppling till AI-branschen
+##  Analys
 
 Python används mycket inom AI och datarelaterade områden eftersom det finns många bibliotek och verktyg för att hämta, bearbeta och analysera data.
 
@@ -125,6 +125,7 @@ Väder: Klart väder
 Temperaturen är normal.
 
 Väderinformationen sparas även i weather_data.csv.
+
 
 ## Reflektion
 
