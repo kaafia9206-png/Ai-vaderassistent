@@ -116,15 +116,26 @@ Programmet kan visa aktuell temperatur och en beskrivning av väderförhållande
 
 Projektet uppfyller de grundläggande kraven genom användning av Python, funktioner, villkor, loopar, klasser, arv, felhantering, CSV, standardbibliotek, externt bibliotek, API och GitHub.
 
+### Exempel på resultat
+
+När användaren skriver in Stockholm kan programmet exempelvis visa:
+
+Temperatur: 14.5 °C
+Väder: Klart väder
+Temperaturen är normal.
+
+Väderinformationen sparas även i weather_data.csv.
+
 ## Reflektion
 
 Under projektet har jag fått träna på att använda Python i ett eget projekt från början till slut.
 
 Jag har bland annat arbetat med funktioner, API-anrop, CSV-filer, felhantering, klasser och arv.
 
-En viktig del av projektet har varit att förstå hur olika delar av programmet hänger ihop. Jag har också fått erfarenhet av Git och GitHub för versionshantering.
+En viktig del av projektet har varit att förstå hur olika delar av programmet hänger ihop.Om jag skulle göra projektet igen skulle jag planera strukturen ännu tydligare från början.
+Jag har också fått erfarenhet av Git och GitHub för versionshantering.
 
-Projektet har gjort det tydligare hur Python kan användas för att hämta och bearbeta data från externa källor.
+Projektet har gjort det tydligare för mig hur Python kan användas för att hämta och bearbeta data från externa källor.
 
 ## Installation
 
@@ -148,3 +159,4 @@ Projektet innehåller:
 GitHub-repository:
 
 https://github.com/kaafia9206-png/Ai-vaderassistent
+
