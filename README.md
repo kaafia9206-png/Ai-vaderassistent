@@ -138,6 +138,12 @@ Jag har också fått erfarenhet av Git och GitHub för versionshantering.
 
 Projektet har gjort det tydligare för mig hur Python kan användas för att hämta och bearbeta data från externa källor.
 
+## Användning av AI
+
+AI har använts som stöd under hela projektet för att få hjälp med idéer, felsökning och förklaringar av Python-kod. Jag har själv gått igenom koden och anpassat den till projektet.
+
+AI har bland annat hjälpt till med strukturering av funktioner, felhantering, klasser och API-anrop. Jag kan förklara hur projektets kod fungerar och varför de olika delarna används.
+
 ## Installation
 
 Projektet kräver Python 3.
